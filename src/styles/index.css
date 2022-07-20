@@ -19,4 +19,11 @@
     height: 200px;
     width: 10px;
     background-color: black;
+    margin: auto;
+}
+.semaforo{
+    background-color: black;
+    display: inline-block;
+    padding: 5px;
+    margin: auto;
 }
