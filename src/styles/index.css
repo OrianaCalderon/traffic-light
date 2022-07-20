@@ -15,3 +15,8 @@
 .active{
     box-shadow: 0px -1px 30px 12px rgba(232,227,232,1);
 }
+.poste{
+    height: 200px;
+    width: 10px;
+    background-color: black;
+}
