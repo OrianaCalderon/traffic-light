@@ -1,11 +1,13 @@
 import React from "react";
-import Home from "./component/home.jsx";
+import Home from "./component/Home.jsx";
 
-function Layout (){
+const Layout =()=>{
     return(
+        <>
         <Home/>
-    )
-
-};
+        </>
+        
+    );
+}
 
 export default Layout
