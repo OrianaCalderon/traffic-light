@@ -1,13 +1,11 @@
 import React from "react";
-import Home from "./component/Home.jsx";
+import Home from "./component/home.jsx"
 
 const Layout =()=>{
     return(
-        <>
         <Home/>
-        </>
         
     );
 }
 
-export default Layout
+export default Layout;

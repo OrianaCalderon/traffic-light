@@ -7,8 +7,8 @@ import "../styles/index.css";
 
 //import your own components
 
-import Layout from './Layout.jsx';
+import Layout from "./layout.jsx";
 
 
 //render your react application
-ReactDOM.render(<Layout/>, document.querySelector("#app"));
+ReactDOM.render(<Layout />, document.querySelector("#app"));
